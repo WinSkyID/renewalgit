@@ -1,1 +1,2 @@
 Jest some text
+Second added some text
