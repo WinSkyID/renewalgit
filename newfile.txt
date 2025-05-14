@@ -1,3 +1,5 @@
 Jest some text
 Second added some text
-Third added some text at the github
+First added some text at the github
+Second added some line to newfile.txt
+
